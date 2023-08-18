@@ -3,7 +3,7 @@
 **Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/MainCode.pdf)   
 **Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/DiplomaText.pdf)  
 **Company:** [Ufa State Aviation Technical University](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University)  
-**NDA:** segment filters, exact links in insights 
+
 
 
 
