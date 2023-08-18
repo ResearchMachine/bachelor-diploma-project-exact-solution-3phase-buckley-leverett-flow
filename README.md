@@ -7,7 +7,7 @@
 
 
 
-### I. Motivation.
+### I. Motivation
 @TEXTOFMOTIVATION
 
 ### II. Problem
