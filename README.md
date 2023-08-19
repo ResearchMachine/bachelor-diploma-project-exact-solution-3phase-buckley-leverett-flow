@@ -1,4 +1,4 @@
-# Analytical solutions of a system of nonlinear differential partial derivatives describing the flow of a multiphase fluid in a porous medium (2016)
+# Analytical solutions of system of nonlinear differential partial derivatives describing flow of multiphase fluid in porous medium (2016)
 **Project Type:** Bachelor Degree Diploma Project, Mathematics, Academic Research  
 **Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple_(software))  
 **Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/MainCode.pdf)   
