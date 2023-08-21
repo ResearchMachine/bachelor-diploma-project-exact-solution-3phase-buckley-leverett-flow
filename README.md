@@ -9,24 +9,26 @@
 
 
 ### I. Motivation
-Методы подземной гидродинамики для прогнозных задач моделирования зачастую подразумевают решение систем дифференциальных уравнений. На практике используются численные методы. Однако такие решения обладают погрешностью. 
-Иногда решение дифференциального уравнения модели можно получить в виде формулы без погрешностей. Именно такие решения используются для проверок численных решателей и изучения характера физических процессов.
+Methods of underground hydrodynamics for predictive modeling problems often involve solving systems of differential equations. In practice, numerical methods are used. However, such solutions are subject to error.
+
+Sometimes the solution of the differential equation of the model can be obtained in the form of a formula without errors. It is these solutions that are used to test numerical solvers and study the nature of physical processes.
 
 ### II. Problem
-The main purpose of this work is ... .
-Project tasks:
-* @TASK;  
-* @TASK;  
-* @TASK.
+The main purpose of this work is finding solutions by any math tricks   
+Ut+a11(U, V)Ux+a12(U, V)Vx=0,  
+Vt+a21(U, V)Ux+a22(U, V)Vx=0.
+
+
 
 ### III. Key Results 
-* @KEYRESULT;  
-* @KEYRESULT;  
-* @KEYRESULT.
+* Two classes of functions are found for the nonlinear coefficients of systems for which the system is reduced by the method of Riemann invariants to a system for which analytical solutions are known;  
+* For the other two classes of functions, solutions of the system were obtained using the Laplace cascade integration method in the hodograph plane;  
+* The found classes of functions make it possible to approximate the experimental data with a high degree of accuracy.
 
 ### III. Content
 
 
-**The project code contains @N scripts**:
-1. (@LINK) @SCRIPT;  
-2. (@LINK) @SCRIPT.
+**The project code contains 1 scripts**:
+1. [Main Code.pdf](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/MainCode.pdf)
+(Implementation of the Laplace cascade integration method in Maple 18)
+ 
